@@ -1,4 +1,4 @@
-# Todo App API
+# Todo App API - Generate this project with Codegen.com
 
 A simple RESTful API for managing todo tasks built with Ruby on Rails 7.
 
